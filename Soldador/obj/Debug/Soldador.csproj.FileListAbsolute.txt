@@ -1,0 +1,76 @@
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.Cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\LB8\Aulas\Aula09_PenduloDuplo3\AulaS\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.Cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.Cache
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.csprojAssemblyReference.cache
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.cache
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.csproj.CoreCompileInputs.cache
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\reice\Desktop\Programa_SCARA\22092019\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.csprojAssemblyReference.cache
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.cache
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.csproj.CoreCompileInputs.cache
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\reice\Desktop\Programa_SCARA - mexido\22092019\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\Andre\Google Drive\Aulas_1Sem_2019\TCC2018\Reinaldo\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.Cache
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csprojAssemblyReference.cache
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.cache
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.CoreCompileInputs.cache
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\reice\Desktop\scara1208\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.pdb
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe.config
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.exe
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\bin\Debug\Soldador.pdb
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csprojAssemblyReference.cache
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Form1.resources
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.Properties.Resources.resources
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.GenerateResource.cache
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.csproj.CoreCompileInputs.cache
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.exe
+C:\Users\reice\OneDrive\IFSP\TCC\scara1208_final\Scara Soldador\Soldador\Soldador\obj\Debug\Soldador.pdb
